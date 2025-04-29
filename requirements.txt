@@ -4,3 +4,5 @@ motor
 python-jose[cryptography]
 python-dotenv
 passlib[bcrypt]
+pydantic[email]
+python-multipart
